@@ -1,4 +1,5 @@
-Basic calculator program
+Week 1 Assignment: 
+A Calculator program.
 
 
 
