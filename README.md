@@ -1,10 +1,10 @@
-      Week 1 Assignment: 
+# Week 1 Assignment: 
 A Calculator program.
 the file is : assignment 1
 
 
-    Week 2 Assignment: 
-    file name: week2assignment
+# Week 2 Assignment: 
+# file name: week2assignment
 
 Python List Operations
 
@@ -49,9 +49,9 @@ sort() – Sort the list in ascending order.
 index() – Find the position of an element in the list.
 
 
-      Week 3 Assignment:
-
-      file; week3Assignment.py
+# Week 3 Assignment:
+      
+# file; week3Assignment.py
 
 Discount Calculator (Python)
 
