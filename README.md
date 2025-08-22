@@ -1,9 +1,9 @@
 Week 1 Assignment: 
 A Calculator program.
+the file is : assignment 1
 
 
-
-Week 2 Assignment:
+Week 2 Assignment: (week2assignment file)
 Python List Operations
 This is a simple Python program that demonstrates basic list operations such as appending, inserting, extending, removing elements, sorting, and finding an index in a list.
 
